@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.audio.napster" version="0.0.0" name="Napster" provider-name="Sullivan SENECHAL">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <summary>Listen to music from Napster audio streaming service.</summary>
+    <description>Connect your Napster account to manage and play your tracks, playlist and more.</description>
+    <platform>all</platform>
+    <license>MIT</license>
+    <website>https://github.com/Soullivaneuh/kodi-plugin.audio.napster</website>
+  </extension>
+</addon>
